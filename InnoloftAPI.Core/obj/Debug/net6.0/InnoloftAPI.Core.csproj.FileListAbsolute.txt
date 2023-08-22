@@ -1,0 +1,14 @@
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\bin\Debug\net6.0\InnoloftAPI.Core.deps.json
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\bin\Debug\net6.0\InnoloftAPI.Core.runtimeconfig.json
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\bin\Debug\net6.0\InnoloftAPI.Core.dll
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\bin\Debug\net6.0\InnoloftAPI.Core.pdb
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\InnoloftAPI.Core.csproj.AssemblyReference.cache
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\InnoloftAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\InnoloftAPI.Core.AssemblyInfoInputs.cache
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\InnoloftAPI.Core.AssemblyInfo.cs
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\InnoloftAPI.Core.csproj.CoreCompileInputs.cache
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\InnoloftAPI.Core.dll
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\refint\InnoloftAPI.Core.dll
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\InnoloftAPI.Core.pdb
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\InnoloftAPI.Core.genruntimeconfig.cache
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Core\obj\Debug\net6.0\ref\InnoloftAPI.Core.dll
