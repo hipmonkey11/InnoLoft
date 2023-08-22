@@ -1,0 +1,17 @@
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\bin\Debug\net6.0\InnoloftAPI.Data.deps.json
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\bin\Debug\net6.0\InnoloftAPI.Data.runtimeconfig.json
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\bin\Debug\net6.0\InnoloftAPI.Data.dll
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\bin\Debug\net6.0\InnoloftAPI.Data.pdb
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\bin\Debug\net6.0\InnoloftAPI.Core.dll
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\bin\Debug\net6.0\InnoloftAPI.Core.pdb
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.csproj.AssemblyReference.cache
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.AssemblyInfoInputs.cache
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.AssemblyInfo.cs
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.csproj.CoreCompileInputs.cache
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.csproj.CopyComplete
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.dll
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\refint\InnoloftAPI.Data.dll
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.pdb
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\InnoloftAPI.Data.genruntimeconfig.cache
+D:\Innoloft\InnoloftAPI\InnoloftAPI.Data\obj\Debug\net6.0\ref\InnoloftAPI.Data.dll
